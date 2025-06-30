@@ -27,3 +27,5 @@ while True:
         case "5":
             print("Sustabdyta")
             break
+
+    # aaa

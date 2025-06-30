@@ -79,3 +79,5 @@ def delete_author(authors):
         print("Autorius pasalintas")
     else:
         print("Autorius nerastas")
+
+#aaa
